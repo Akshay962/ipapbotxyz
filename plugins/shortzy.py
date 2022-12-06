@@ -1,4 +1,4 @@
-#shortzy Sahid malik
+#shortzy Akshay Chand
 import asyncio
 import re
 import aiohttp
